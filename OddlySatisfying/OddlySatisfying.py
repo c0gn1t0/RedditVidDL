@@ -30,8 +30,8 @@ date_str = datetime.now().strftime("%d-%m-%y")
 
 # Python Reddit API Wrapper (PRAW) to connect to the Reddit API and access the top 10 videos on the "videos" subreddit for the past week
 reddit = praw.Reddit(
-    client_id="TOhlDhwcRVh3wOeWiossOg",
-    client_secret="cZfmQYRs2ZGngkAhbtNlcKwxKAWDdQ",
+    client_id="XX",
+    client_secret="YY",
     user_agent="RedVidDL 1.0 by /u/yprojekt",
 )
 
